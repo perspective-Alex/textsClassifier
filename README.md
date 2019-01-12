@@ -1,4 +1,4 @@
-#Naive Bayes Classifier
+# Naive Bayes Classifier
 
 Basic Bernoulli model
 
